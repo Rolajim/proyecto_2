@@ -32,7 +32,7 @@ de los sectores y sub industrias que lo conforman.
 
   ### Link de archivo en formato parquet utilizado en power bi.
 
-  `<link>` : https://drive.google.com/file/d/1gg-cVrT4OmfqL9e0Hryj45e1jKlNa6tY/view?usp=share_link 
+  `<link>` : https://drive.google.com/file/d/1kL4EKjhLdZJYLBK7be9D1Dh5HQ5gWpNq/view?usp=share_link
   
   ### Link del dashboard realizado en power bi alojado en goolge drive.
   
@@ -40,7 +40,7 @@ de los sectores y sub industrias que lo conforman.
   
   ### Link al reporte escrito alojado en goolge drive.
   
-  `<link>` : https://drive.google.com/file/d/1MzW_UIK1-ps3GfeiLnrkpgB3e1uiiGyB/view?usp=share_link 
+  `<link>` : https://drive.google.com/file/d/1MzW_UIK1-ps3GfeiLnrkpgB3e1uiiGyB/view?usp=share_link
   
   
   
