@@ -1,5 +1,7 @@
 # Proyecto 2
 
+https://securities.miraeasset.com/public/mw/blog/editor/upload/images/000021/20211019145135615_MALV4COL.png
+
  ## INTRODUCCIÓN
  
 Análisis del indice sp500  con datos obtenidos desde Yahoo finace.
