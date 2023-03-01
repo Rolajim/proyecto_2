@@ -20,5 +20,9 @@ como vienen distribuidos, las variantes relevantes para poder tener una mejor in
 transformalos en un dataset para ser utilizado en power bi y generar una recomendación de inversion dentro
 de los sectores y sub industrias que lo conforman.
 
+ ## Links  
 
+  ### Link de archivo en formato parquet utilizado en power bi.
+
+  `<link>` : https://drive.google.com/file/d/1gg-cVrT4OmfqL9e0Hryj45e1jKlNa6tY/view?usp=share_link 
 
